@@ -30,10 +30,10 @@ This project uses the following Python libraries:
 ## Installation
 
 To install the required libraries, run the following command:
-
+& 
+To run the program 
 ```bash
 pip install -r requirements.txt
-
 streamlit run app2.py
 
 
